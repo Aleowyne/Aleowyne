@@ -1,7 +1,7 @@
 ### <div align="center">I'm Aleowyne, an ABAP software engineer 👩 based in Nantes, France.</div>  
   
 
-- 🔭 I'm currently working on ☀️ historical weather data website of my city.  
+- 🔭 I'm currently working on ☀️ historical weather data website of my garden.  
   
 
 - 🌱 I'm currently learning JavaScript & TypeScript during my free time.  
